@@ -168,4 +168,6 @@ python demo_my_images.py --images-dir my_images
 ```bash
 Для YOLO - https://www.kaggle.com/datasets/ronakgohil/license-plate-dataset
 ```
+```bash
 Для OCR - https://www.kaggle.com/datasets/evgrafovmaxim/nomeroff-russian-license-plates
+```
