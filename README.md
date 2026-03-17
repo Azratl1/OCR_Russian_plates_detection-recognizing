@@ -164,3 +164,6 @@ python demo_my_images.py --images-dir my_images
 ## Назначение
 
 Проект предназначен для учебных и исследовательских задач в области компьютерного зрения, распознавания объектов и OCR.
+Ссылки на датасеты:
+Для YOLO - https://www.kaggle.com/datasets/ronakgohil/license-plate-dataset
+Для OCR - https://www.kaggle.com/datasets/evgrafovmaxim/nomeroff-russian-license-plates
