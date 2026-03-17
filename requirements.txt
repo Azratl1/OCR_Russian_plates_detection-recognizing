@@ -1,0 +1,7 @@
+flask>=3.1,<4
+waitress>=3.0,<4
+numpy>=1.26,<3
+opencv-python>=4.10,<5
+torch>=2.5,<3
+torchvision>=0.20,<1
+ultralytics>=8.3,<9
