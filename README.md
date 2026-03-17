@@ -171,3 +171,10 @@ python demo_my_images.py --images-dir my_images
 ```bash
 Для OCR - https://www.kaggle.com/datasets/evgrafovmaxim/nomeroff-russian-license-plates
 ```
+## Метрики обучения и пример работы приложения
+<img width="974" height="487" alt="image" src="https://github.com/user-attachments/assets/f59ffc5c-69b0-41fc-ae18-5ccf49f4f879" /> Результаты обучения YOLO.
+<img width="974" height="731" alt="image" src="https://github.com/user-attachments/assets/bfd680be-b680-4c32-a843-4e67f4708846" /> Матрица ошибок YOLO.
+<img width="974" height="325" alt="image" src="https://github.com/user-attachments/assets/94b6ffbf-1443-4327-9c70-e845a313c139" /> Метрики OCR сети
+
+
+
