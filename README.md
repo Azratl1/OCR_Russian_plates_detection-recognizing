@@ -169,7 +169,7 @@ python demo_my_images.py --images-dir my_images
 Для YOLO - https://www.kaggle.com/datasets/ronakgohil/license-plate-dataset
 ```
 ```bash
-Для OCR - https://www.kaggle.com/datasets/evgrafovmaxim/nomeroff-russian-license-plates
+Для OCR - https://huggingface.co/datasets/AY000554/Car_plate_OCR_dataset
 ```
 ## Метрики обучения и пример работы приложения
 <img width="974" height="487" alt="image" src="https://github.com/user-attachments/assets/f59ffc5c-69b0-41fc-ae18-5ccf49f4f879" /> Результаты обучения YOLO.
